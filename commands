@@ -1,0 +1,12 @@
+git config --global user.email "shubham.kashyap8095@gmail.com
+git config --global user.name "shubham-lab"
+
+Learn git Part -1 :-
+
+1) git init
+2) git add [filename] || -A
+3) git status
+4) git commit -m "msg"
+5) git remote add origin repoName
+6) git clone repoName
+7) git pull origin mater
